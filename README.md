@@ -1,4 +1,3 @@
-ud989-cat-clicker-ko-starter
-============================
+# Cat Clicker
 
-ud989-cat-clicker-ko-starter
+Simple cat clicker implementation using the Knockout.js library
